@@ -1,0 +1,7 @@
+Buổi 1
+    * COMPONENT:
+        . Stateful COMPONENT(class)
+        . Stateless COMPONENT(function)
+
+        HTML viết chung vs js gọi là JSX
+        1 COMPONENT phải được bao bởi 1 cái div lớn chứ k viết ngang hàng dc
